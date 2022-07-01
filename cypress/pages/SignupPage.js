@@ -3,7 +3,7 @@
 class SignupPage { // Para classe, no JavaScript segue o padrão Pascal Case na nomenclatura.
 
     go() {
-        cy.visit('https://buger-eats-qa.vercel.app')
+        cy.visit('/')
 
         cy.get('a[href="/deliver"]').click() //Funçao get com subfunçao click, passando um localizador
         cy.get('#page-deliver form h1').should('have.text', 'Cadastre-se para  fazer entregas')
