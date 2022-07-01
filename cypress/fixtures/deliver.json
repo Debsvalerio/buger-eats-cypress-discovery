@@ -1,0 +1,50 @@
+{
+    "signup": {
+        "name": "Débora Valério",
+        "cpf": "02137237199",
+        "email": "de-valerio@hotmail.com",
+        "whatsapp": "66996964299",
+        "address": {
+            "postalcode": "78714303",
+            "street": "Rua dos Radialistas",
+            "number": "868",
+            "details": "Casa vermelha de esquina",
+            "district": "Jardim Ipê",
+            "city_state": "Rondonópolis/MT"
+        },
+        "delivery_method": "Moto",
+        "cnh": "cnh-digital.jpg"
+    },
+    "cpf_inv": {
+        "name": "Débora Valério",
+        "cpf": "02137237199AA",
+        "email": "de-valerio@hotmail.com",
+        "whatsapp": "66996964299",
+        "address": {
+            "postalcode": "78714303",
+            "street": "Rua dos Radialistas",
+            "number": "868",
+            "details": "Casa vermelha de esquina",
+            "district": "Jardim Ipê",
+            "city_state": "Rondonópolis/MT"
+        },
+        "delivery_method": "Moto",
+        "cnh": "cnh-digital.jpg"
+    },
+    "email_inv": {
+        "name": "Débora Valério",
+        "cpf": "02137237199",
+        "email": "de-valerio.com.br",
+        "whatsapp": "66996964299",
+        "address": {
+            "postalcode": "78714303",
+            "street": "Rua dos Radialistas",
+            "number": "868",
+            "details": "Casa vermelha de esquina",
+            "district": "Jardim Ipê",
+            "city_state": "Rondonópolis/MT"
+        },
+        "delivery_method": "Moto",
+        "cnh": "cnh-digital.jpg"
+    }
+}
